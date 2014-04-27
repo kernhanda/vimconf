@@ -112,7 +112,7 @@ set nocompatible
         syntax on                                   " syntax highlighting
         set t_Co=256                                " 256-colors
         set background=dark                         " we're using a dark bg
-        colors solarized 			    " select colorscheme
+        colors jellybeans                           " select colorscheme
         au BufNewFile,BufRead *.txt se ft=sh tw=79  " opens .txt w/highlight
         au BufNewFile,BufRead *.tex se ft=tex tw=79 " we don't want plaintex
         au BufNewFile,BufRead *.md se ft=markdown tw=79 " markdown, not modula
