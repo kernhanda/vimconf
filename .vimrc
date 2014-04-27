@@ -64,7 +64,7 @@ set nocompatible
     Bundle 'scrooloose/nerdcommenter'
 
     " Autoclose (, " etc
-    Bundle 'Townk/vim-autoclose'
+    " Bundle 'Townk/vim-autoclose'
 
     " Git wrapper inside Vim
     Bundle 'tpope/vim-fugitive'
